@@ -1,5 +1,5 @@
 # datathon-25-notebooks
-This repo contains notebooks I wrote for the BTK Datathon 25 competition. It was a data science competition hosted by BTK Akademi on Kaggle. It was my **first Datathon competition**, and the main goal was to **predict the session_value** of e-commerce user sessions based on their event histories (e.g., views, add-to-cart, purchases, etc.)
+This repo contains notebooks I wrote for the BTK Datathon 25 competition on Kaggle. It was my **first Datathon competition**, and the main goal was to **predict the session_value** of e-commerce user sessions based on their event histories (e.g., views, add-to-cart, purchases, etc.)
 
 ## My Result
 - Final Rank: **125th out of 571 teams**  
